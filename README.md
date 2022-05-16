@@ -6,9 +6,9 @@ Co mi się podobało :
   4. Owce.
   5. Widoki.
   
--Co bym zmienił :
+Co bym zmienił :
   1. Nic.
   2. ...
-  3. Może długość pobytu.
+  3. Może czas pobytu.
   4. ...
-  5. Przedłużyłbym długość pobytu.
+  5. Przedłużyłbym czas pobytu.
